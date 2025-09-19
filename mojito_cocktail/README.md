@@ -104,8 +104,4 @@ npm run dev
 Open [http://localhost:5173](http://localhost:5173) in your browser to view the project.
 
 
-detailed explanations, cool features, and exercises to boost your skills. Give it a go!
 
-<a href="https://jsm.dev/cocktail-nextjs" target="_blank">
-  <img src="public/readme/jsmpro.png" alt="Project Banner">
-</a>
